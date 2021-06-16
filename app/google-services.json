@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "619280205216",
+    "project_id": "brigadapf-a1dc4",
+    "storage_bucket": "brigadapf-a1dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619280205216:android:8fa3cc0183c51372ad50c5",
+        "android_client_info": {
+          "package_name": "com.controldev.brigada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619280205216-qnm8a8bm89e8d15irv2al3kt4j847q1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Rl6LQjtSQQv6UtKZyWMrAtSCRSv3rhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619280205216-qnm8a8bm89e8d15irv2al3kt4j847q1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619280205216:android:31acb1a33181b387ad50c5",
+        "android_client_info": {
+          "package_name": "com.controldev.mysplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619280205216-qnm8a8bm89e8d15irv2al3kt4j847q1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Rl6LQjtSQQv6UtKZyWMrAtSCRSv3rhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619280205216-qnm8a8bm89e8d15irv2al3kt4j847q1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

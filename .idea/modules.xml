@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Brigada_PF_Alimentos.iml" filepath="$PROJECT_DIR$/.idea/modules/Brigada_PF_Alimentos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Brigada_PF_Alimentos.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Brigada_PF_Alimentos.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Brigada_PF_.iml" filepath="$PROJECT_DIR$/.idea/modules/Brigada_PF_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Brigada_PF_.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Brigada_PF_.app.iml" />
     </modules>
   </component>
 </project>

@@ -9,7 +9,11 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="colorPrimary">#2979FF</color>
-    <color name="colorPrimaryDark">#3D5AFE</color>
-    <color name="colorAccent">#2979FF</color>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#2C384A</color>
+    <color name="colorAccent">#039BE5</color>
+    <color name="colorGris">#ECEFF1</color>
+    <color name="colorOrange"> #F57C00</color>
+
+    #F57C00
 </resources>
